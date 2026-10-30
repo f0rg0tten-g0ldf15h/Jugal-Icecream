@@ -9,3 +9,10 @@ I also built an admin workflow where the factory can authenticate, view incoming
 
 
 then I got bored on it and left it until i committed it here today
+
+
+
+to run on your machine run these commands:
+export ADMIN_USERNAME='admin'
+export ADMIN_PASSWORD='your_actual_admin_password'
+./mvnw spring-boot:run
